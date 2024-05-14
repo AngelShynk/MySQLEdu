@@ -4,7 +4,7 @@
 		"mysql8-18f73ba7f0d-343365b3b210bba": {
 			"provider": "mysql",
 			"driver": "mysql8",
-			"name": "localhost1",
+			"name": "localhost",
 			"save-password": true,
 			"configuration": {
 				"host": "localhost",
