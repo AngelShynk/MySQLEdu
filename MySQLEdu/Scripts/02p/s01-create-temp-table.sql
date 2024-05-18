@@ -8,7 +8,7 @@ CREATE TABLE orders (
     total_amount DECIMAL(10, 2)
 );
 
--- Inserting values into temporary table
+-- Inserting values into table
 INSERT INTO orders (order_id, customer_id, order_date, total_amount)
 VALUES
     (1, 101, '2024-01-15', 150.75),
