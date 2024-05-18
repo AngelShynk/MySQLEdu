@@ -1,5 +1,6 @@
 /* s03-create-custom-function*/
 
+
 -- 1
 
 CREATE FUNCTION reverse_string(input_string VARCHAR(255))
